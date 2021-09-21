@@ -10,3 +10,4 @@
 <li> 2021-09-18 페이지 배경화면 설정</li>
 <li> 2021-09-19 header, banner 작성완료</li>
 <li> 2021-09-20 header와 banner에 들어가는 아이콘 삽입</li>
+<li> 2021-09-21 category-list만듦</li>
