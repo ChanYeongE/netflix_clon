@@ -11,3 +11,5 @@
 <li> 2021-09-19 header, banner 작성완료</li>
 <li> 2021-09-20 header와 banner에 들어가는 아이콘 삽입</li>
 <li> 2021-09-22 category-list 작성완료</li>
+<li> 2021-10-06 js, css 작성완료</li>
+<li> 2021-10-07 완성</li>
